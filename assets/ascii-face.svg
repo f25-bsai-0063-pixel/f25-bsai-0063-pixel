@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="655" viewBox="0 0 540 655">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c4b5fd"/><stop offset="0.5" stop-color="#818cf8"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#14122b"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a78bfa" stop-opacity="0"/><stop offset="0.5" stop-color="#a78bfa" stop-opacity="0.55"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient>
+</defs>
+<style>text{font-family:"DejaVu Sans Mono","Fira Code",Menlo,Consolas,monospace;font-size:8px;white-space:pre;fill:url(#g)}
+.l{opacity:0;animation:r 12.0s linear infinite}
+@keyframes r{0%{opacity:0}4%{opacity:1}92%{opacity:1}100%{opacity:0}}
+.beam{animation:b 12.0s linear infinite}
+@keyframes b{0%{transform:translateY(0);opacity:1}50%{transform:translateY(595px);opacity:1}51%{opacity:0}100%{opacity:0}}
+.fl{animation:f 3s steps(1) infinite}@keyframes f{0%{opacity:1}47%{opacity:1}48%{opacity:.82}50%{opacity:1}90%{opacity:1}91%{opacity:.9}93%{opacity:1}}
+.cur{animation:c 1s steps(1) infinite}@keyframes c{50%{opacity:0}}
+</style>
+<rect width="540" height="655" rx="14" fill="url(#bg)" stroke="#312e81" stroke-width="1.5"/>
+<circle cx="22" cy="20" r="5" fill="#f87171"/><circle cx="40" cy="20" r="5" fill="#fbbf24"/><circle cx="58" cy="20" r="5" fill="#34d399"/>
+<text x="270.0" y="24" text-anchor="middle" style="font-size:11px;fill:#6d6a9c">junaid@riphah:~$ ./render_face --ascii</text>
+<g class="fl">
+<text class="l" x="20" y="44.0" style="animation-delay:0.00s" xml:space="preserve"></text>
+<text class="l" x="20" y="53.4" style="animation-delay:0.10s" xml:space="preserve"></text>
+<text class="l" x="20" y="62.9" style="animation-delay:0.19s" xml:space="preserve"></text>
+<text class="l" x="20" y="72.3" style="animation-delay:0.29s" xml:space="preserve"></text>
+<text class="l" x="20" y="81.8" style="animation-delay:0.39s" xml:space="preserve"></text>
+<text class="l" x="20" y="91.2" style="animation-delay:0.48s" xml:space="preserve">                                      .&#x27;^`&#x27;...&#x27;&#x27;&#x27;&#x27;&#x27;...&#x27;`&#x27;&#x27;</text>
+<text class="l" x="20" y="100.6" style="animation-delay:0.58s" xml:space="preserve">                           .      .&#x27;```.   .&#x27;..          &#x27;&#x27;....</text>
+<text class="l" x="20" y="110.1" style="animation-delay:0.68s" xml:space="preserve">                          .      &#x27;^^&#x27; .     .  .   .      .&#x27;`&#x27;&#x27;``..&#x27;.</text>
+<text class="l" x="20" y="119.5" style="animation-delay:0.77s" xml:space="preserve">                               &#x27;`^&#x27;   .. ..               .... &#x27;^^&#x27;&#x27;``&#x27;..</text>
+<text class="l" x="20" y="129.0" style="animation-delay:0.87s" xml:space="preserve">                       .     .`.&#x27;. ..   .                    ...&#x27;^^&#x27;      .....</text>
+<text class="l" x="20" y="138.4" style="animation-delay:0.97s" xml:space="preserve">                          ..&#x27;&#x27;...         .  .....  ..          .&#x27;`^:^&#x27;     ...</text>
+<text class="l" x="20" y="147.8" style="animation-delay:1.06s" xml:space="preserve">                        ...&#x27;&#x27;  .               ..                 &#x27;^::`&#x27;..&#x27;`&#x27;&#x27;.</text>
+<text class="l" x="20" y="157.3" style="animation-delay:1.16s" xml:space="preserve">                        &#x27;&#x27;.               ......                .&#x27;..``&#x27;.     &#x27;`&#x27;.</text>
+<text class="l" x="20" y="166.7" style="animation-delay:1.26s" xml:space="preserve">               .                                  ......`&#x27;..    .&#x27;&#x27; &#x27;`^`&#x27;.      ...   .</text>
+<text class="l" x="20" y="176.2" style="animation-delay:1.35s" xml:space="preserve">                       ..                             ...&#x27;&#x27;&#x27;.. .&#x27;``.&#x27;``&#x27;^&#x27;&#x27;.</text>
+<text class="l" x="20" y="185.6" style="animation-delay:1.45s" xml:space="preserve">                       &#x27;`                              ...  .&#x27;&#x27;..&#x27;``&#x27;^&#x27;&#x27;.... ...</text>
+<text class="l" x="20" y="195.0" style="animation-delay:1.55s" xml:space="preserve">            .        . .&#x27;.                             ..&#x27;&#x27;  &#x27;^`&#x27;&#x27;`&#x27;.&#x27;:`.  ... .&#x27;.           ..</text>
+<text class="l" x="20" y="204.5" style="animation-delay:1.65s" xml:space="preserve">              .       &#x27;`&#x27;.                   .           .``. ^::^^&#x27;  &#x27;;^.        ..           ..</text>
+<text class="l" x="20" y="213.9" style="animation-delay:1.74s" xml:space="preserve">                         .  .&#x27;`^`&#x27;`&#x27;`&#x27;. .`^^`&#x27;`&#x27;&#x27;.         &#x27;. .^`&#x27;&#x27;:&#x27;  .&#x27;&#x27;.             .</text>
+<text class="l" x="20" y="223.4" style="animation-delay:1.84s" xml:space="preserve">                       ..  ^--++--;:^`^;;-+++=++-;^..&#x27;.    .    &#x27;...&#x27; .  .&#x27;..            ..</text>
+<text class="l" x="20" y="232.8" style="animation-delay:1.94s" xml:space="preserve">                         .;+++==++=+--++=+=*****==*=-::`&#x27;.            .    ..              ...     ..</text>
+<text class="l" x="20" y="242.2" style="animation-delay:2.03s" xml:space="preserve">                         ;++++==++==========**=****#**+-:^&#x27;. ..</text>
+<text class="l" x="20" y="251.7" style="animation-delay:2.13s" xml:space="preserve">           .            :++++++++======**=******#####**=+-;^`&#x27;.         .</text>
+<text class="l" x="20" y="261.1" style="animation-delay:2.23s" xml:space="preserve">             .         ^-++++++===============****#####**=++-^&#x27;</text>
+<text class="l" x="20" y="270.6" style="animation-delay:2.32s" xml:space="preserve">            ..        &#x27;--+=============***************#****=++;`                                     .</text>
+<text class="l" x="20" y="280.0" style="animation-delay:2.42s" xml:space="preserve">             .        -++====*==**===*****##*#***********=====+`.                                    .</text>
+<text class="l" x="20" y="289.4" style="animation-delay:2.52s" xml:space="preserve">              .      ^==++=====***==*##*###**######*****======+;^..                                  .</text>
+<text class="l" x="20" y="298.9" style="animation-delay:2.61s" xml:space="preserve">                    &#x27;=======*******=*******=====*=*####**====+=+;&#x27;...                            .   ..</text>
+<text class="l" x="20" y="308.3" style="animation-delay:2.71s" xml:space="preserve">              .&#x27;&#x27;&#x27;``^^:-+;:^:`^:::;:`&#x27;.&#x27;...  .....&#x27;^;::;-+==++++-`&#x27;..`                               &#x27;.</text>
+<text class="l" x="20" y="317.8" style="animation-delay:2.81s" xml:space="preserve">            &#x27;&#x27;.   ..     .`;.:=**##:  .......&#x27;&#x27;..&#x27;. &#x27;*=+-;;+===++-:`&#x27;^&#x27;                               .</text>
+<text class="l" x="20" y="327.2" style="animation-delay:2.90s" xml:space="preserve">           &#x27;       &#x27;&#x27;&#x27;&#x27;&#x27;.  .+^.`:+-   .&#x27;..&#x27;``&#x27;..&#x27;&#x27;&#x27;. ;+*===+;-+====-^^`.                              .</text>
+<text class="l" x="20" y="336.6" style="animation-delay:3.00s" xml:space="preserve">         :-.     .          `.&#x27;*%#&#x27;                  &#x27;;::;;-;;;::;;;::;^`                          .  .</text>
+<text class="l" x="20" y="346.1" style="animation-delay:3.10s" xml:space="preserve">         ^^                 &#x27;`=##*`                  .:-;:;-+======++;^`&#x27;&#x27;&#x27;                          .</text>
+<text class="l" x="20" y="355.5" style="animation-delay:3.19s" xml:space="preserve">          ^                 -*####+                  `=**===**+;:^:;;;;;^`            .&#x27;&#x27;&#x27;         ....</text>
+<text class="l" x="20" y="365.0" style="animation-delay:3.29s" xml:space="preserve">          `.               ;###*=*#-.                ^=*=+;;:-++=*****==+:`^. . &#x27;&#x27;``::^`&#x27;^;&#x27;       ..</text>
+<text class="l" x="20" y="374.4" style="animation-delay:3.39s" xml:space="preserve">          .^              ^####***%*^               ^;-++==****=========+;;`&#x27;`;:+++-&#x27;`+=;^^*&#x27;     ....</text>
+<text class="l" x="20" y="383.8" style="animation-delay:3.48s" xml:space="preserve">           :`            ^#%##****#*+:.           &#x27;:--####****=====++++++;::-+=++=-;=#%#=+*#;    ...</text>
+<text class="l" x="20" y="393.3" style="animation-delay:3.58s" xml:space="preserve">            &#x27;&#x27;.      ..&#x27;;####*****#*=-::^````^^:;--;-+%##*****====++++++--;---=;;: `;*##=+#%;   ..</text>
+<text class="l" x="20" y="402.7" style="animation-delay:3.68s" xml:space="preserve">               ....;;^^+###%##*****=+=*+::::;;;;;;;-=##**=***===++++-+------+*%=^:;+;;+##+%#&#x27;  ..</text>
+<text class="l" x="20" y="412.2" style="animation-delay:3.77s" xml:space="preserve">                   ;;:;***##*****##*++*###**=======*##***======+++++-++---;-=#%*:+#%*+**=%:</text>
+<text class="l" x="20" y="421.6" style="animation-delay:3.87s" xml:space="preserve">                   :-=-:===+;^:-+***+-##***#####******=========+++++-;;::::+#*;-#*##**#=-#-</text>
+<text class="l" x="20" y="431.0" style="animation-delay:3.97s" xml:space="preserve">                   ^=**:.`^:&#x27;&#x27;^^``::^=##***####*==****===**==+++++--;:-:^^;+-;-=##=----*#:</text>
+<text class="l" x="20" y="440.5" style="animation-delay:4.06s" xml:space="preserve">                   &#x27;+=*+:&#x27;&#x27;`;=*#*=+=*####**********===+====++===+----;;^`:--+==*++**%=:.   ...</text>
+<text class="l" x="20" y="449.9" style="animation-delay:4.16s" xml:space="preserve">                    -=+;^ ^++:;--+=*****###*****=*========++====+-+-;::^^:;=#%####*-^.    ...</text>
+<text class="l" x="20" y="459.4" style="animation-delay:4.26s" xml:space="preserve">                    :=;^&#x27;:==++*=+==+=+=*==*****=====*======+++-==++;:;:^^^&#x27;. .&#x27;`^^`     ...</text>
+<text class="l" x="20" y="468.8" style="animation-delay:4.35s" xml:space="preserve">                    &#x27;;^^;;;--++---;+==+++-+==============++++++=+-;;;;;^^;+-^&#x27;`^^^     ..</text>
+<text class="l" x="20" y="478.2" style="animation-delay:4.45s" xml:space="preserve">                     ^^&#x27; .&#x27;&#x27;```&#x27;^:^`&#x27;&#x27;&#x27;.&#x27;:-+=========++==+++===+=+-;;:^`:--++-::^.   ..</text>
+<text class="l" x="20" y="487.7" style="animation-delay:4.55s" xml:space="preserve">                     `:`&#x27;:===-=*#*===++=+---+======+==++++++=+-++--;:^`^----+=-:&#x27;   .</text>
+<text class="l" x="20" y="497.1" style="animation-delay:4.65s" xml:space="preserve">                      :;;^-==++=+-+++==**=+++++==+++++++++=+++----;^`&#x27;`:--++=+-^</text>
+<text class="l" x="20" y="506.6" style="animation-delay:4.74s" xml:space="preserve">                      &#x27;-+^..&#x27;&#x27;&#x27;&#x27;&#x27;`:;-+=====++++++++++++++=+++++-;::^&#x27;`:-++==+-;&#x27;</text>
+<text class="l" x="20" y="516.0" style="animation-delay:4.84s" xml:space="preserve">                       ^-;:``&#x27;&#x27;`:;-;+++-+++++++++++==++=+++----;:^`&#x27;&#x27;^;+====++;.</text>
+<text class="l" x="20" y="525.4" style="animation-delay:4.94s" xml:space="preserve">                        ^:;;;;--+++++==*========+==+==++++--::^``&#x27;.&#x27;^;+=====+-:</text>
+<text class="l" x="20" y="534.9" style="animation-delay:5.03s" xml:space="preserve">                        .-+=+==***######******==+-+++++-;;:^`&#x27;&#x27;&#x27;.&#x27;&#x27;^;+=====++-`</text>
+<text class="l" x="20" y="544.3" style="animation-delay:5.13s" xml:space="preserve">                         ;====-^:+=*###*****=++---;;;:^`&#x27;........&#x27;:;-+====+---`</text>
+<text class="l" x="20" y="553.8" style="animation-delay:5.23s" xml:space="preserve">                         .:-+==+:^-==++-++++-::^^^``.    .....&#x27;&#x27;&#x27;^;-++==+++---&#x27;</text>
+<text class="l" x="20" y="563.2" style="animation-delay:5.32s" xml:space="preserve">                           `^:;-:.`^^^^:::^`&#x27;&#x27;`&#x27;.      .....&#x27;``^^:-+====++--;-.</text>
+<text class="l" x="20" y="572.6" style="animation-delay:5.42s" xml:space="preserve">                               ........&#x27;&#x27;&#x27;.        .   .&#x27;&#x27;`````^;-+====++--;--.</text>
+<text class="l" x="20" y="582.1" style="animation-delay:5.52s" xml:space="preserve">                               .^`&#x27;                  .`^:;;;:;;-+++====++-;;;;&#x27;</text>
+<text class="l" x="20" y="591.5" style="animation-delay:5.61s" xml:space="preserve">                              `+^^^`&#x27;&#x27;.    .. .....&#x27;^-+++++-;-+++=====++-;;;;-&#x27;</text>
+<text class="l" x="20" y="601.0" style="animation-delay:5.71s" xml:space="preserve">                             .#;`^^^``&#x27;&#x27;..&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;&#x27;`:;++=++-----++==*===+-;;;--;+&#x27;</text>
+<text class="l" x="20" y="610.4" style="animation-delay:5.81s" xml:space="preserve">                             ^%;^^^^^^^``````````^;+==++-----++==**==+-;;;;-;:=#.</text>
+<text class="l" x="20" y="619.8" style="animation-delay:5.90s" xml:space="preserve">                             :%-`^:::::::^^``^^^::::------+--++==*===+;::;--;:=@;</text>
+</g>
+<g class="beam"><rect x="14" y="38" width="512" height="22" fill="url(#beam)"/></g>
+<text x="20" y="643" style="font-size:11px;fill:#a78bfa">&gt; status: online <tspan class="cur">█</tspan></text>
+</svg>
