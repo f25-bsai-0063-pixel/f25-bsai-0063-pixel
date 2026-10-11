@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Junaid%20Ul%20Haq&fontSize=54&fontColor=c4b5fd&fontAlignY=38&animation=twinkling&desc=AI%20Student%20%7C%20Machine%20Learning%20%7C%20Aspiring%20Software%20Engineer&descSize=17&descColor=a5b4fc&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Junaid%20Ul%20Haq&fontSize=54&fontColor=c4b5fd&fontAlignY=38&animation=twinkling&desc=AI%20Student%20%7C%20Machine%20Learning%20%7C%20Aspiring%AI%20Engineer&descSize=17&descColor=a5b4fc&descAlignY=60" width="100%"/>
 
 <img src="./assets/ascii-face.svg" alt="ASCII portrait rendering in a terminal" width="460"/>
 
