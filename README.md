@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Junaid%20Ul%20Haq&fontSize=54&fontColor=c4b5fd&fontAlignY=38&animation=twinkling&desc=AI%20Student%20%7C%20Machine%20Learning%20%7C%20Aspiring%AI%20Engineer&descSize=17&descColor=a5b4fc&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Junaid%20Ul%20Haq&fontSize=54&fontColor=c4b5fd&fontAlignY=38&animation=twinkling&desc=AI%20Student%20%7C%20Machine%20Learning%20%7C%20Aspiring%20Software%20Engineer&descSize=17&descColor=a5b4fc&descAlignY=60" width="100%"/>
 
 <img src="./assets/ascii-face.svg" alt="ASCII portrait rendering in a terminal" width="460"/>
 
@@ -10,19 +10,25 @@
 
 <br/>
 
-![University](https://img.shields.io/badge/Riphah%20International%20University-Sahiwal-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Degree](https://img.shields.io/badge/BS-Artificial%20Intelligence-6d28d9?style=for-the-badge&logo=openai&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-Fall%202025-4338ca?style=for-the-badge)
-![Location](https://img.shields.io/badge/Sahiwal-Punjab%2C%20Pakistan-1e1b4b?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="./assets/badges/university.svg" alt="Riphah International University, Sahiwal"/>
+<img src="./assets/badges/degree.svg" alt="BS Artificial Intelligence"/>
+<img src="./assets/badges/batch.svg" alt="Batch Fall 2025"/>
+<img src="./assets/badges/location.svg" alt="Sahiwal, Punjab, Pakistan"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338ca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-ul-haq)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.junaidulhaq@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-312e81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f25-bsai-0063-pixel)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-1d4ed8?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/junaidulhaq0063)
+<br/>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=f25-bsai-0063-pixel&label=Profile%20Views&color=6d28d9&style=flat-square)
-![Followers](https://img.shields.io/github/followers/f25-bsai-0063-pixel?label=Followers&style=flat-square&color=4338ca&logo=github)
-![Stars](https://img.shields.io/github/stars/f25-bsai-0063-pixel?label=Stars&style=flat-square&color=7c3aed&logo=github)
+<a href="https://www.linkedin.com/in/junaid-ul-haq"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"/></a>
+<a href="mailto:me.junaidulhaq@gmail.com"><img src="./assets/badges/email.svg" alt="Email"/></a>
+<a href="https://github.com/f25-bsai-0063-pixel"><img src="./assets/badges/github.svg" alt="GitHub"/></a>
+<a href="https://www.kaggle.com/junaidulhaq0063"><img src="./assets/badges/kaggle.svg" alt="Kaggle"/></a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=f25-bsai-0063-pixel&label=Profile%20Views&color=6d28d9&style=flat-square" alt="Profile views"/>
+<img src="https://raw.githubusercontent.com/f25-bsai-0063-pixel/f25-bsai-0063-pixel/output/followers.svg" alt="Followers"/>
+<img src="https://raw.githubusercontent.com/f25-bsai-0063-pixel/f25-bsai-0063-pixel/output/stars.svg" alt="Stars"/>
 
 </div>
 
@@ -59,7 +65,9 @@ Goal         ->  become an AI engineer who builds solutions that matter
 
 **AI / ML & Data**
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,opencv&theme=dark" alt="AI and ML"/>
+<img src="./assets/icons/numpy.svg" width="48" alt="NumPy"/>
+<img src="./assets/icons/pandas.svg" width="48" alt="Pandas"/>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv&theme=dark" alt="ML frameworks"/>
 
 **Databases**
 
@@ -67,10 +75,12 @@ Goal         ->  become an AI engineer who builds solutions that matter
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,bash&theme=dark" alt="Tooling"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
+<img src="./assets/icons/jupyter.svg" width="48" alt="Jupyter"/>
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" alt="Linux, Bash"/>
 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-4c1d95?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-1d4ed8?style=for-the-badge&logo=kaggle&logoColor=white)
+<img src="./assets/badges/colab.svg" alt="Google Colab"/>
+<img src="./assets/badges/kaggle-tool.svg" alt="Kaggle"/>
 
 ---
 
@@ -78,11 +88,11 @@ Goal         ->  become an AI engineer who builds solutions that matter
 
 | Domain | Level | Details |
 | :-- | :--: | :-- |
-| Python for AI | ![](https://img.shields.io/badge/-In%20Progress-6d28d9?style=flat-square) | NumPy, Pandas, Matplotlib workflows |
-| Machine Learning | ![](https://img.shields.io/badge/-In%20Progress-6d28d9?style=flat-square) | Scikit-learn, model evaluation, feature engineering |
-| Data Analysis | ![](https://img.shields.io/badge/-In%20Progress-6d28d9?style=flat-square) | Cleaning, EDA, visualization |
-| Data Structures & Algorithms | ![](https://img.shields.io/badge/-In%20Progress-4338ca?style=flat-square) | Problem solving and complexity analysis |
-| Deep Learning | ![](https://img.shields.io/badge/-Up%20Next-1d4ed8?style=flat-square) | Neural networks with PyTorch and TensorFlow |
+| Python for AI | <img src="./assets/badges/lvl-progress.svg" alt="In Progress"/> | NumPy, Pandas, Matplotlib workflows |
+| Machine Learning | <img src="./assets/badges/lvl-progress.svg" alt="In Progress"/> | Scikit-learn, model evaluation, feature engineering |
+| Data Analysis | <img src="./assets/badges/lvl-progress.svg" alt="In Progress"/> | Cleaning, EDA, visualization |
+| Data Structures & Algorithms | <img src="./assets/badges/lvl-progress-dsa.svg" alt="In Progress"/> | Problem solving and complexity analysis |
+| Deep Learning | <img src="./assets/badges/lvl-next.svg" alt="Up Next"/> | Neural networks with PyTorch and TensorFlow |
 
 ---
 
@@ -93,7 +103,7 @@ Goal         ->  become an AI engineer who builds solutions that matter
 
 <br/>
 
-| | |
+| Field | Detail |
 | :-- | :-- |
 | **Status** | Foundation project |
 | **Focus** | Getting comfortable with Git, GitHub, and shipping |
@@ -109,11 +119,11 @@ My first GitHub project. Every large system starts with a first commit.
 
 <br/>
 
-| | |
+| Type | Plan |
 | :-- | :-- |
-| **Plan** | End-to-end ML project with a clean dataset, EDA, model comparison, and write-up |
-| **Plan** | Data analysis notebook published on Kaggle |
-| **Plan** | First neural network built from scratch, then in PyTorch |
+| **ML project** | End-to-end project with a clean dataset, EDA, model comparison, and write-up |
+| **Data analysis** | Notebook published on Kaggle |
+| **Deep learning** | First neural network built from scratch, then in PyTorch |
 
 </details>
 
@@ -135,10 +145,10 @@ My first GitHub project. Every large system starts with a first commit.
 
 ## Learning Path
 
-![Python](https://img.shields.io/badge/Python%20for%20AI-In%20Progress-success?style=flat-square&labelColor=1e1b4b)
-![ML](https://img.shields.io/badge/Machine%20Learning-In%20Progress-success?style=flat-square&labelColor=1e1b4b)
-![DSA](https://img.shields.io/badge/Data%20Structures-In%20Progress-yellow?style=flat-square&labelColor=1e1b4b)
-![DL](https://img.shields.io/badge/Deep%20Learning-Up%20Next-blue?style=flat-square&labelColor=1e1b4b)
+<img src="./assets/badges/path-python.svg" alt="Python for AI, in progress"/>
+<img src="./assets/badges/path-ml.svg" alt="Machine Learning, in progress"/>
+<img src="./assets/badges/path-dsa.svg" alt="Data Structures, in progress"/>
+<img src="./assets/badges/path-dl.svg" alt="Deep Learning, up next"/>
 
 ---
 
@@ -146,8 +156,8 @@ My first GitHub project. Every large system starts with a first commit.
 
 <div align="center">
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-junaidulhaq0063-4c1d95?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/junaidulhaq0063)
-[![GitHub](https://img.shields.io/badge/GitHub-f25--bsai--0063--pixel-312e81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f25-bsai-0063-pixel)
+<a href="https://www.kaggle.com/junaidulhaq0063"><img src="./assets/badges/profile-kaggle.svg" alt="Kaggle profile"/></a>
+<a href="https://github.com/f25-bsai-0063-pixel"><img src="./assets/badges/profile-github.svg" alt="GitHub profile"/></a>
 
 </div>
 
@@ -166,11 +176,11 @@ My first GitHub project. Every large system starts with a first commit.
 
 ---
 
-## Trophies
+## Achievements Unlocked
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=f25-bsai-0063-pixel&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="./assets/achievements.svg" alt="Achievements unlocked" width="100%"/>
 
 </div>
 
@@ -180,7 +190,7 @@ My first GitHub project. Every large system starts with a first commit.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=f25-bsai-0063-pixel&bg_color=0d1117&color=a78bfa&line=818cf8&point=e0e7ff&area=true&area_color=6d28d9&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/f25-bsai-0063-pixel/f25-bsai-0063-pixel/output/activity-graph.svg" alt="Contribution activity graph" width="100%"/>
 
 </div>
 
@@ -221,11 +231,12 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-me.junaidulhaq%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.junaidulhaq@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-junaid--ul--haq-4338ca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-ul-haq)
-[![GitHub](https://img.shields.io/badge/GitHub-f25--bsai--0063--pixel-312e81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f25-bsai-0063-pixel)
-[![Kaggle](https://img.shields.io/badge/Kaggle-junaidulhaq0063-1d4ed8?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/junaidulhaq0063)
+<a href="mailto:me.junaidulhaq@gmail.com"><img src="./assets/badges/connect-gmail.svg" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/junaid-ul-haq"><img src="./assets/badges/connect-linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://github.com/f25-bsai-0063-pixel"><img src="./assets/badges/connect-github.svg" alt="GitHub"/></a>
+<a href="https://www.kaggle.com/junaidulhaq0063"><img src="./assets/badges/connect-kaggle.svg" alt="Kaggle"/></a>
 
+<br/>
 <br/>
 
 <i>The best way to predict the future is to build it.</i>
